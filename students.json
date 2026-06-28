@@ -1,0 +1,17 @@
+{
+    "1234567890": {
+        "address": "123 Main St",
+        "contact": "555-0199",
+        "program": "Computer Science"
+    },
+    "0987654321": {
+        "address": "456 Oak Ave",
+        "contact": "555-0144",
+        "program": "Data Analytics"
+    },
+    "2300700532": {
+        "address": "Nairobi",
+        "contact": "0773229294",
+        "program": "BSE421"
+    }
+}

@@ -1,0 +1,12 @@
+2026-06-28 23:14:06,750 - INFO - Successfully added student: 2400700542 - Rhaenyra Targaryen
+2026-06-28 23:14:21,404 - INFO - Searched and found student: 2400700542
+2026-06-28 23:20:24,243 - INFO - Successfully added student: 2400700542 - Daemon Targaryen
+2026-06-28 23:24:34,353 - INFO - Successfully added student: 2300700532 - Ruth Bates
+2026-06-28 23:29:38,747 - INFO - Viewed all student records.
+2026-06-28 23:33:16,393 - INFO - Viewed all student records.
+2026-06-28 23:34:02,450 - INFO - Successfully added student: 2500700542 - John Smith
+2026-06-28 23:34:06,876 - INFO - Viewed all student records.
+2026-06-28 23:34:36,789 - WARNING - Student with Registration Number 2400700542 not found.
+2026-06-28 23:34:53,922 - INFO - Searched and found student: 2500700542
+2026-06-28 23:35:50,613 - INFO - Updated details for student: 2500700542
+2026-06-28 23:36:03,538 - INFO - Deleted student record for: 2500700542
